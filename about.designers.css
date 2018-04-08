@@ -1,0 +1,30 @@
+h1 {
+	text-align: center;
+	padding-bottom: 1%;
+	font-family: helvetica;
+}
+
+.header {
+	width: 100vw;
+	padding-bottom: 5%;
+}
+
+.responsive{
+	width: 100%;
+	
+}
+
+.gallery {
+	float: left;
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+.photos {
+	margin-left: 12%;
+}
+
+.profile {
+	width: 70%;
+}
+
